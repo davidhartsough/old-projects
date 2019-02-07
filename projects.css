@@ -106,7 +106,8 @@ h3 {
   padding-top: 0.25rem;
 }
 img {
-  max-width: 9rem;
+  width: 9rem;
+  height: 9rem;
   margin: 0 auto 0.25rem;
 }
 @media screen and (min-width: 480px) {
